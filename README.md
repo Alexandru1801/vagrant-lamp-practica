@@ -1,2 +1,2 @@
 # vagrant-lamp-practica
-PRACTIVA 1 CON VAGRANT
+PRACTICA 1 CON VAGRANT
